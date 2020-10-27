@@ -1,0 +1,20 @@
+{
+    "Author": "Prateek Sharma [MSFT]",
+    "ContentSize": 4774,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/run-a-custom-script-inside-a-vm-failed-over-using-an-asr-recovery-plan/master/RunScriptInFailedoverVM.ps1",
+    "DownloadCount": 1173,
+    "Id": "Run-a-custom-script-inside-903d1e6a",
+    "IsFederated": true,
+    "IsWorkflow": true,
+    "Popularity": 565,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2015-4-29T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This runbook provides a way to run a script inside the guest virtual machine using custom script extension\u00a0This script is to be used with VMs that are failed voery by an ASR recoery plan. Since the VM is provisioned dynamically in a cloud service you need to specify the VM\u00a0\u00a0 Gui",
+    "Title": "Run a custom script inside a VM failed over using an ASR Recovery Plan",
+    "UpdatedDate": "2015-5-13T00:00:00",
+    "Url": "https://github.com/azureautomation/run-a-custom-script-inside-a-vm-failed-over-using-an-asr-recovery-plan",
+    "UserTags": "Disaster Recovery, Azure Site Recovery"
+}
